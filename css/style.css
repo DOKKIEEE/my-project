@@ -1,0 +1,43 @@
+* {
+}
+
+body {
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+}
+
+.hello {
+    height: 200vh;
+    background-color: aliceblue;
+    display: flex;
+}
+.div1 {
+    height: 30vh; 
+    width: 20vw;
+    /* padding: 90px; */
+    font-size: auto;
+
+}
+
+.div2 {
+    height: 30vh; 
+    width: 30vw;
+}
+
+.div3 {
+    height: 30vh; 
+    width: 30vw;
+}
+
+.dog{
+    height: 150px;
+    width: 170px; 
+
+}
+
+p {
+    font-size: auto;
+    height: 30vh;
+    width: 20vw;
+}
